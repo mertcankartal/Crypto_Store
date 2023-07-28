@@ -1,6 +1,6 @@
 package com.example.composecrypto.util
 
-const val API_KEY ="a0eaa97bdbff66cad56c333139f48c356e5302df"
+const val API_KEY =""
 const val BASE_URL ="https://api.nomics.com/v1/"
 const val Attributes ="id,name,logo_url"
 
